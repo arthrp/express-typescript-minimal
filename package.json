@@ -1,0 +1,14 @@
+{
+  "name": "express_typescript_minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "express": "^4.15.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
